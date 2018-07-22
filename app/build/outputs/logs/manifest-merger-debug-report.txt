@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e93c22bf06738a1b5c9505314e4e2ca0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\07bca0edd95aa0dd3fa5ae5d7e34b800\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b8a6d74e05ffe56d203a5c129fe7128a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bbaa64946e6e577cc76bf94c01cc9f34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6d6edf48326db5a144fff0dbb13d8108\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6b6168b787ddfaf4e872b29d66aeacb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9a1944a1b5c4996da0b105054338c0ce\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4309348a26c0086a2303bdec279cac3a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e406724f88e3e7026ee38d0da5f5d878\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2fc103cb2cbe4931eacce7c856d0d3bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3fe92480cbb0350f6a5ac4e4715b6a0a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e93c22bf06738a1b5c9505314e4e2ca0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e93c22bf06738a1b5c9505314e4e2ca0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\07bca0edd95aa0dd3fa5ae5d7e34b800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\07bca0edd95aa0dd3fa5ae5d7e34b800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b8a6d74e05ffe56d203a5c129fe7128a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b8a6d74e05ffe56d203a5c129fe7128a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bbaa64946e6e577cc76bf94c01cc9f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bbaa64946e6e577cc76bf94c01cc9f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6d6edf48326db5a144fff0dbb13d8108\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6d6edf48326db5a144fff0dbb13d8108\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6b6168b787ddfaf4e872b29d66aeacb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6b6168b787ddfaf4e872b29d66aeacb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9a1944a1b5c4996da0b105054338c0ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9a1944a1b5c4996da0b105054338c0ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4309348a26c0086a2303bdec279cac3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4309348a26c0086a2303bdec279cac3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e406724f88e3e7026ee38d0da5f5d878\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e406724f88e3e7026ee38d0da5f5d878\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2fc103cb2cbe4931eacce7c856d0d3bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2fc103cb2cbe4931eacce7c856d0d3bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3fe92480cbb0350f6a5ac4e4715b6a0a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DEV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3fe92480cbb0350f6a5ac4e4715b6a0a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:12:22-78
+application
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:14:5-32:19
+	android:label
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.mobile.terasoft.ioio.view.MainActivity
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:20:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.mobile.terasoft.ioio.view.SettingActivity
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:28:9-29:20
+	android:name
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:28:19-49
+activity#com.mobile.terasoft.ioio.view.Testing
+ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:30:9-31:20
+	android:name
+		ADDED from C:\Users\DEV\Documents\AndroidStudioProjects\ProjectStudens\Oscilloscrope\TransistorCurveADK\app\src\main\AndroidManifest.xml:30:19-41

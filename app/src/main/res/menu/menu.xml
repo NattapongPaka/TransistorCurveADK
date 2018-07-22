@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item
+        android:id="@+id/menu_testing"
+        android:icon="@drawable/ic_action_help"
+        android:orderInCategory="3"
+        android:showAsAction="ifRoom"
+        android:title="Testing"/>
+    
+    <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_action_settings"
+        android:orderInCategory="3"
+        android:showAsAction="ifRoom"
+        android:title="Setting"/>
+    <item
+        android:id="@+id/menu_save"
+        android:icon="@drawable/ic_action_save"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom"
+        android:title="Save"/>
+    <item
+        android:id="@+id/menu_start"
+        android:icon="@drawable/ic_action_play"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom"
+        android:title="Start"/>
+
+</menu>
